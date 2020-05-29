@@ -1,0 +1,217 @@
+[
+
+  {
+    "img": "https://i.pinimg.com/originals/d2/66/a7/d266a77f5905be1a6ea7ffacffbd8eaf.png",
+    "superheroe": "Iron Man",
+    "identidad": "Tony Stark",
+    "edad": "57",
+    "altura": "189",
+    "genero": "Masculino",
+    "descripcion": "Es multimillonario, experto en ingieneria y ciencia, intelecto nivel genio"
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/39/3959.jpg",
+    "superheroe": " Capitan America",
+    "identidad": "Steve Rogers",
+    "edad": "97 años",
+    "altura": "188",
+    "genero": "Masculino",
+    "descripcion": "Se mantiene fiel a sus ideales y principios, es un hombre de justicia."
+
+  },
+
+  {
+    "img": "https://i.pinimg.com/originals/ff/d0/6d/ffd06d826c0571dac0aa8c4fa076b89b.png",
+    "superheroe": "Thor",
+    "identidad": "Thor",
+    "edad": "57 años",
+    "altura": "190",
+    "genero": "Masculino",
+    "descripcion":"Hijo de Odin Dios del trueno tiene habilidad de super fuerza, sobrevive a explosiones de energia."
+
+  },
+
+  {
+    "img": "https://www.pngkey.com/png/detail/61-611439_spiderman-is-a-major-evergreen-license-spiderman-png.png",
+    "superheroe": "Spider Man",
+    "identidad": "Peter Parker",
+    "edad": "16 años",
+    "altura": "168",
+    "genero": "Masculino",
+    "descripcion":"Intelectual, fuerza sobrehumana, coordinacion, equilibrio y resistencia. "
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4078.jpg",
+    "superheroe": "Black Panther",
+    "identidad": "T-Challa",
+    "edad": "35 años",
+    "altura": "186",
+    "genero": "Masculino",
+    "descripcion":"El aprovecha el conocimiento, tiene fuerza, agilidad, resistencia, trata de proteger a su pueblo."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/39/3944.jpg",
+    "superheroe": "Hulk",
+    "identidad": "Bruce Banner",
+    "edad": "56 años",
+    "altura": "172",
+    "genero": "Masculino",
+    "descripcion":"Intelecto nivel genio, super fuerza, resistencia, curacion acelerada, tiene capacidad de respirar bajo el agua"
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4086.jpg",
+    "superheroe": "Ant-Man",
+    "identidad": "Scott Lang",
+    "edad": "41 años",
+    "altura": "189",
+    "genero": "Masculino",
+    "descripcion":"Capacidad de reducir su tamaño casi a tamaño microscopico"
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4075.jpg",
+    "superheroe": "Bucky Barnes",
+    "identidad": "Bucky Barnes",
+    "edad": "98 años",
+    "altura": "180",
+    "genero": "Masculino",
+    "descripcion":"Acrobata, experto en lucha, fuerza sobrehumana pose un abrazo bionico y es el mejor amigo de Capitan America."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/24/2419.jpg",
+    "superheroe": "Baby Groot",
+    "identidad": "Groot",
+    "edad": "0 años",
+    "altura": "110",
+    "genero": "Masculino",
+    "descripcion":"Puede absorber la madera como alimento y tiene la capacidad de regenerarse."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4084.jpg",
+    "superheroe": "Hercules",
+    "identidad": "Hercules",
+    "edad": "68 años",
+    "altura": "184",
+    "genero": "Masculino",
+    "descripcion":"Dios de la mitologia griega, hijo de Zeus, pose super fuerza."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/15/1571.jpg",
+    "superheroe": "Beta Ray Bill",
+    "identidad": "Beta Ray Bill",
+    "edad": "84 años",
+    "altura": "189",
+    "genero": "Masculino",
+    "descripcion":"Lucha con fuerza aunque pierda la vida es el unico que puede tomar el martillo de Thor"
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4000.jpg",
+    "superheroe": "Black Widow",
+    "identidad": "Natalia Romanova",
+    "edad": "36 años",
+    "altura": "165",
+    "genero": "Femenino",
+    "descripcion":"Tiene resistencia, durabilidad, fuerza agilidad."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/69/6926.jpg",
+    "superheroe": "Capitana Marvel",
+    "identidad": "Carol Daver",
+    "edad": "34 años",
+    "altura": "165",
+    "genero": "Femenino",
+    "descripcion":"Capacidad de manipular energia cosmica, puede controlar el calor y la gravedad."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/23/2305.jpg",
+    "superheroe": "Iron Patriot",
+    "identidad": "James Rupert Rhodes",
+    "edad": "256 años",
+    "altura": "188",
+    "genero": "Masculino",
+    "descripcion":"Capacidad y conocimiento de uso de armas, entrenamiento militar."
+
+  },
+  {
+    "img": "https://www.superherodb.com/gallery2/050/90/9064.jpg",
+    "superheroe": "Dr. Strange",
+    "identidad": "Stephen Strange",
+    "edad": "43 años",
+    "altura": "197",
+    "genero": "Masculino",
+    "descripcion": "Puede utilizar la magia y tiene capacidad de manejar la energia."
+  },
+  {
+    "img": "https://www.superherodb.com/gallery2/050/57/5702.jpg",
+    "superheroe": "Cyclops",
+    "identidad": "Scott Summers",
+    "edad": "38 años",
+    "altura": "191",
+    "genero": "Masculino",
+    "descripcion": "Emite rayos opticos contusivos de energia solar."
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/48/4886.jpg",
+    "superheroe": "Deadpool",
+    "identidad": "Wade Wilson",
+    "edad": "42 años",
+    "altura": "189",
+    "genero": "Masculino",
+    "descripcion":"Tiene la capacidad de curarse, experto en artes marciales, reflejos superhumanos y excelente franco tirador."
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/33/3364.jpg",
+    "superheroe": "Capitana America",
+    "identidad": "Sharon Rogers",
+    "edad": "37 años",
+    "altura": "173",
+    "genero": "Femenino",
+    "descripcion":"Tiene super fuerza, agilidad, experta en artes marciales"
+
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/40/4055.jpg",
+    "superheroe": "Falcon",
+    "identidad": "Sam Wilson",
+    "edad": "49 años",
+    "altura": "187",
+    "genero": "Masculino",
+    "descripcion":"Vuelo, agilidad"
+  },
+
+  {
+    "img": "https://www.superherodb.com/gallery2/050/10/1092.jpg",
+    "superheroe": "Venom",
+    "identidad": "Eddie Brock",
+    "edad": "42 años",
+    "altura": "185",
+    "genero": "Masculino",
+    "descripcion":"Agil, fuerte, capacidad de expandirse y puede detectar a los demas de su especie"
+
+  }
+]
